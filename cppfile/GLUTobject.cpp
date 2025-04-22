@@ -9,7 +9,7 @@ void MyDisplay()
 	
 	glutWireSphere(0.5, 24, 6);
 	/*
-    glutSolidSphere(0.5, 24, 6);
+glutSolidSphere(0.5, 24, 6);
 	glutWireCube(1.0);
 	glutWireCone(0.4, 0.8, 18, 9);
 	glutWireTorus(0.2, 0.6, 18, 36);
